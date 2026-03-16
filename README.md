@@ -56,3 +56,4 @@ Usage: ./extractor.sh {firmware.zip} [firmware/]
  * HTC's proprietary upgrade packages (RUU)
  * Amlogic's upgrade packages
  * Rockchip's upgrade packages
+
